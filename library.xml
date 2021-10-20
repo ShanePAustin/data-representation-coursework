@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<Catalogue>
+    <Book category="Technical">
+        <isbn>9781593275990</isbn>
+        <title>Automate the Boring Stuff with Python: Practical Programming for Total Beginners 1st Edition</title> 
+        <publisher></publisher> 
+        <author>Al Sweigart</author> 
+    </Book>
+    <Book category="Technical">
+        <isbn>9780596000462</isbn>
+        <title>Learning XML</title> 
+        <publisher>O'Reilly Media</publisher> 
+        <author>Erik T. Ray</author> 
+    </Book>
+</Catalogue>
+
+<Catalogue>
+    <Book category="Cookery">
+        <isbn>9780950187501</isbn>
+        <title>Le Repertoire de La Cuisine</title> 
+        <publisher> Leon Jaeggi</publisher> 
+        <author>Louis Saulnier</author> 
+    </Book>
+    <Book category="Cookery">
+        <isbn>9780600620426</isbn>
+        <title>Larousse Gastronomique</title> 
+        <publisher>Hamlyn</publisher> 
+        <author>Prosper Montagné</author> 
+    </Book>
+</Catalogue>
