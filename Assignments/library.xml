@@ -19,7 +19,7 @@
     <Book category="Cookery">
         <isbn>9780950187501</isbn>
         <title>Le Repertoire de La Cuisine</title> 
-        <publisher> Leon Jaeggi</publisher> 
+        <publisher>Leon Jaeggi</publisher> 
         <author>Louis Saulnier</author> 
     </Book>
     <Book category="Cookery">
