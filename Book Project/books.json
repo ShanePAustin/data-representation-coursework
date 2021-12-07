@@ -1,0 +1,44 @@
+[
+  {
+    "ISBN": 123, 
+    "author": "dss", 
+    "price": 65, 
+    "title": "fd"
+  }, 
+  {
+    "ISBN": 1234, 
+    "author": "Python", 
+    "price": 126, 
+    "title": "Hello World"
+  }, 
+  {
+    "ISBN": 12345, 
+    "author": "some guy", 
+    "price": 999, 
+    "title": "new title"
+  }, 
+  {
+    "ISBN": 123456, 
+    "author": "some guy", 
+    "price": 123, 
+    "title": "test"
+  }, 
+  {
+    "ISBN": 1234567, 
+    "author": "jk", 
+    "price": 12, 
+    "title": "Some fantasy book"
+  }, 
+  {
+    "ISBN": 123456789, 
+    "author": "js", 
+    "price": 123, 
+    "title": "JSON book"
+  }, 
+  {
+    "ISBN": 12345678, 
+    "author": "mary", 
+    "price": 999, 
+    "title": "had a little lamb"
+  }
+]
